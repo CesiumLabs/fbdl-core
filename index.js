@@ -114,7 +114,7 @@ class FBDL {
     /**
      * Parses time in ms
      * @param {string} duration Raw duration to parse
-     * @returns {number}
+     * @returns {string}
      */
     static parseTime(duration) {
         if (typeof duration !== "string") return duration;
