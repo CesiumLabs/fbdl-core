@@ -1,0 +1,36 @@
+{
+  "name": "fbdl-core",
+  "version": "1.0.1",
+  "description": "Facebook video downloader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "author": "Snowflake107",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.0",
+    "safe-eval": "^0.4.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/fbdl-core.git"
+  },
+  "keywords": [
+    "facebook",
+    "fbdl",
+    "facebook-video-download",
+    "facebook-video",
+    "ytdl"
+  ],
+  "bugs": {
+    "url": "https://github.com/Snowflake107/fbdl-core/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/fbdl-core#readme"
+}
