@@ -36,7 +36,8 @@ fbdl.getInfo(url)
   rawVideo: 'https://video.fktm3-1.fna.fbcdn.net/v/t42.9040-2/10000000_616030639328161_2327537459957197156_n.mp4?_nc_cat=107&_nc_sid=985c63&efg=eyJybHIiOjY0MCwicmxhIjoxNzg5LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=gaLKQ6r-ZQwAX-Pb90s&rl=640&vabr=356&_nc_ht=video.fktm3-1.fna&oh=61954364472bf4fedbdfc93ccb760cbd&oe=5F3D03E8',
   thumbnail: 'https://scontent.fktm3-1.fna.fbcdn.net/v/t15.5256-10/115759345_915519478950181_6760759259159138332_n.jpg?_nc_cat=104&_nc_sid=08861d&_nc_ohc=2w-5CyeMtLMAX8Lq408&_nc_ht=scontent.fktm3-1.fna&oh=4f4c5d0a7f61c88b7cb2facb232240a3&oe=5F61AAA2',
   uploadedAt: 2020-07-23T09:00:46.000Z,
-  duration: '4:29',
+  duration: '4:29'
+  t: 269,
   interactionCount: 1286285,
   streamURL: 'https://video.fktm3-1.fna.fbcdn.net/v/t42.9040-2/10000000_616030639328161_2327537459957197156_n.mp4?_nc_cat=107&_nc_sid=985c63&efg=eyJybHIiOjY0MCwicmxhIjoxNzg5LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=gaLKQ6r-ZQwAX-Pb90s&rl=640&vabr=356&_nc_ht=video.fktm3-1.fna&oh=61954364472bf4fedbdfc93ccb760cbd&oe=5F3D03E8',
   publishedAt: 2020-07-23T09:00:46.000Z,
