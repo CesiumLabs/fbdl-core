@@ -30,7 +30,7 @@ class FBDL {
         return new Promise(async (resolve, reject) => {
             if (!FBDL.validateURL(url)) reject(new Error("Invalid url."));
             const info = await FBDL.getInfo(url);
-            if (!info || !info.streamURL) return reject(new Error("video not found"));
+            if (!info || !info.streamURL) reject(new Error("video not found"));
             const link = info.streamURL;
             let req = https;
 
