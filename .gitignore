@@ -1,0 +1,8 @@
+## Ignore node_modules
+node_modules
+
+## Ignore media files
+/test/*.mp4
+
+## Ignore package-lock
+package-lock.json
